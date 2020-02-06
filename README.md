@@ -6,4 +6,5 @@
 
 ## TODO:
 
-* Remove md tag from pandoc pdf generation
+- [x]  Remove md tag from pandoc pdf generation
+- [] Spell check on **only** when taking notes
